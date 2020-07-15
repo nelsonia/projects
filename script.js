@@ -17,4 +17,5 @@ function getResult(){
     else{
     alert("Scalene");
     }
+    
     }
